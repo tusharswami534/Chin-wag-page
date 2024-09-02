@@ -3,6 +3,12 @@
 * {
     font-family: "Roboto Slab", serif;
 }
+.Time_line_bg_images{
+    background-image: url(/assets/images/png/background_img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 .max-w-877 {
     max-width: 877px !important;
@@ -48,15 +54,20 @@
     max-width: 149px;
 }
 
-.mt_93 {
-    margin-top: 93px;
+.mt_150 {
+    margin-top: 150px;
 }
 
 .position_lg_absolute {
     position: absolute;
 }
-.left_-29{
-    left: -29px;
+
+.left_-33 {
+    left: -33px;
+}
+
+.mt_33 {
+    margin-top: 33px;
 }
 
 @media (max-width:1200px) {
@@ -83,6 +94,12 @@
 
     .row {
         overflow: hidden;
+    }
+    .mt_lg_0{
+        margin-top: 0px !important;
+    }
+    .mt_lg_93{
+        margin-top: 93px;
     }
 }
 
