@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+* {
+    font-family: "Roboto Slab", serif;
+}
+
+.max-w-877 {
+    max-width: 877px !important;
+}
+
+.top_-60 {
+    top: -60px;
+}
+
+.left-0 {
+    left: 0;
+}
+
+.white-space-nowrap {
+    white-space: nowrap;
+}
+
+.left_44 {
+    left: 44px;
+}
+
+.left_30 {
+    left: 30px;
+}
+
+.top_50 {
+    top: 50px;
+}
+
+.max_w_202 {
+    max-width: 202px;
+}
+
+.max_w_177 {
+    max-width: 177px;
+}
+
+.max_w_161 {
+    max-width: 161px;
+}
+
+.max_w_149 {
+    max-width: 149px;
+}
+
+.mt_93 {
+    margin-top: 93px;
+}
+
+.position_lg_absolute {
+    position: absolute;
+}
+.left_-29{
+    left: -29px;
+}
+
+@media (max-width:1200px) {
+    .left_xl_-49 {
+        left: -49px !important;
+    }
+
+    .left_xl_-51 {
+        left: -51px !important;
+    }
+}
+
+@media (max-width:992px) {
+    .position_lg_unset {
+        position: unset !important;
+    }
+
+    .Time_line_Line {
+        height: 642px;
+        width: 4px;
+        background-color: #B8D8D8;
+        left: 9%;
+    }
+
+    .row {
+        overflow: hidden;
+    }
+}
+
+@media (max-width:768px) {
+    .Time_line_Line {
+        left: 12%;
+    }
+}
