@@ -3,7 +3,8 @@
 * {
     font-family: "Roboto Slab", serif;
 }
-.Time_line_bg_images{
+
+.Time_line_bg_images {
     background-image: url(/assets/images/png/background_img.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,9 +70,11 @@
 .mt_33 {
     margin-top: 33px;
 }
-.min-h-539{
+
+.min-h-539 {
     min-height: 539px;
 }
+
 
 @media (max-width:1200px) {
     .left_xl_-49 {
@@ -80,6 +83,10 @@
 
     .left_xl_-51 {
         left: -51px !important;
+    }
+
+    .right_-73 {
+        right: -73px !important;
     }
 }
 
@@ -98,10 +105,12 @@
     .row {
         overflow: hidden;
     }
-    .mt_lg_0{
+
+    .mt_lg_0 {
         margin-top: 0px !important;
     }
-    .mt_lg_93{
+
+    .mt_lg_93 {
         margin-top: 93px;
     }
 }
